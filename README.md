@@ -1,3 +1,6 @@
+https://app-public.brevo.com/marketing-reports/email/share/54/overview?token=GE_QTl7bTMYLWkmEydJUyWYFhk4yCCcPiTtK2gCKSfEiCn.PfRelDq8f5Rm4HNbvGvEq5x5_Vavh3VIeM1aV5BJU_VhAPsg-&lang=en
+
+https://app-public.brevo.com/marketing-reports/email/share/52/overview?token=QKmKmd6ClO.qVRwy3zFd5vfAR_nCwgfPTBpzOw01Sa_ohqKAZBqVqMlUeycHJuAHpM67GHsZEGEwJisPIvEMDpWDpaE_TNU-&lang=en
 
 https://app-public.brevo.com/marketing-reports/email/share/50/overview?token=aVeuvrdnv5ACoSmtA287hPnDIzeP3u6K_4euIwUyJgsiPWCmem3qMqfjcZuRCtwpYibz371YnHhHU52PZwz9canN7kQbNXE-&lang=en
 
