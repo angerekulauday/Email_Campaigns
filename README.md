@@ -1,5 +1,3 @@
-
-
 https://app-public.brevo.com/marketing-reports/email/share/54/overview?token=zOMQLw.56B7Hs_ziazSxJCZPbD1S3ZOrtabtaX.HFuPcf88Lpy5pou68u7uRWQCVudkdKfI0h1UN6IH033idNBf9N7AwOBs-&lang=en
 
 
